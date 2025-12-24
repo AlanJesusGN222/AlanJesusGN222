@@ -4,7 +4,7 @@
   <img src="Banner.png" alt="Banner de Alan Jesús García Nava" width="100%" style="border-radius: 10px;">
 </div>
 <p align="center">
-  Desarrollador enfocado en backend, móvil y web. Construyendo soluciones funcionales con bases sólidas.
+  Desarrollador enfocado. Construyendo soluciones funcionales con bases sólidas.
 </p>
 
 <p align="center">
