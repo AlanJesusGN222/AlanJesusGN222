@@ -125,7 +125,7 @@ Desarrollo de un videojuego para comprender la programación en entornos gráfic
   <p>
     💻 Desarrollo de software y nuevas tecnologías &nbsp;|&nbsp; 🤖 Inteligencia artificial
     <br>
-    🔄 Metodologías ágiles &nbsp;|&nbsp; 🏋️‍♂️ Entrenamiento en gimnasio (Gym rat)
+    🔄 Metodologías ágiles &nbsp;|&nbsp; 🏋️‍♂️ Entrenamiento en gimnasio
   </p>
 </div>
 
