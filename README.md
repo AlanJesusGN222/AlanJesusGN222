@@ -3,7 +3,7 @@
 # Alan Jesús García Nava
 <p>🚀 Ingeniero de Software en Formación | Apasionado por el desarrollo Backend y Móvil</p>
 
-<img src="banner.png" alt="Banner Alan Jesús García Nava" width="100%" style="border-radius: 10px; margin: 10px 0;">
+<img src="Banner.png" alt="Banner Alan Jesús García Nava" width="100%" style="border-radius: 10px; margin: 10px 0;">
 
 <p align="center">
   <a href="mailto:agarcian002@alumno.uaemex.mx">
