@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Alan Jesús García Nava 👋</h1>
-<h3 align="center">🚀 Ingeniero de Software en Formación</h3>
+<h3 align="center">🚀 Ingeniero en Software en formación</h3>
 <div align="center">
   <img src="Banner.png" alt="Banner de Alan Jesús García Nava" width="100%" style="border-radius: 10px;">
 </div>
