@@ -7,12 +7,6 @@
   Desarrollador enfocado. Construyendo soluciones funcionales con bases sólidas.
 </p>
 
-<p align="center">
-  <a href="mailto:agarcian002@alumno.uaemex.mx">
-    <img src="https://img.shields.io/badge/Email-Contactame-EB4F3D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 ---
 
 <h2 align="center">👨‍💻 Sobre mí</h2>
